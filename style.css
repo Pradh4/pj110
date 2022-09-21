@@ -1,0 +1,55 @@
+body{
+    font-family: 'Are You Serious', cursive;
+    font-family: 'Grechen Fuemen', cursive;
+    font-family: 'Schoolbell', cursive;
+    background: #ee082b;
+}
+
+.header_div{
+    background:white;
+    color:red;
+}
+
+.header_div img{
+    width:100px;
+}
+
+.main_div{
+    background:#19e712;
+    padding:10px;
+    margin-top:15px;
+    border:3px solid rgb(17, 39, 239);
+}
+
+.main_div label{
+    background:rgb(244, 248, 4);
+    width:310px;
+    padding:10px;
+    margin-bottom: 0px;
+    box-shadow:5px 5px 18px white;
+}
+
+#camera{
+    border:2px solid white;
+    width:310px;
+    height:300px;
+    box-shadow:5px 5px 18px white;
+}
+
+.main_div button{
+    width:310px;
+    font-size:16px;
+    box-shadow:5px 5px 18px white;
+    border:1px solid;
+}
+
+#design{
+    font-weight:bolder;
+    letter-spacing:5px;
+    font-size:35px;
+}
+
+.image_responsive{
+    width: 100px;
+    height: 90px;
+}
